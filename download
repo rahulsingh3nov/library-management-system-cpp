@@ -1,0 +1,11 @@
+# build output
+*.exe
+*.o
+library
+test_library
+
+# runtime data
+data/
+*.dat
+*.dat.tmp
+test_library_tmp/
